@@ -24,3 +24,4 @@ todo
 - [ ] Deploy 3d viewer on raspbery
 - [ ] Add zigbee devices
 - [ ] Add modbus devices
+- [ ] Change icon from dev to prod
